@@ -10,3 +10,6 @@ Este es un curso de procesamiento de datos
 - Aprender sobre los sistemas operativos 
   
   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/678px-As08-16-2593.jpg)
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/678px-As08-16-2593.jpg" width"250">
